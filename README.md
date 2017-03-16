@@ -4,6 +4,7 @@ my solutions of the leetcode question.
 
 | ID | Title | Solution | Difficulty |
 |---| ----- | -------- | -------- |
+|2| [Two Sum][https://leetcode.com/problems/two-sum/#/description] | [Two Sum.js][Two Sum.js| Easy |
 |3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/description)| [Longest Substring Without Repeating Characters.js](Longest Substring Without Repeating Characters.js) | Medium |
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/?tab=Description)|[Valid Parentheses.js](Valid Parentheses.js)| Easy |
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/?tab=Description)|[Search in Rotated Sorted Array.js](Search in Rotated Sorted Array.js)| Medium |
